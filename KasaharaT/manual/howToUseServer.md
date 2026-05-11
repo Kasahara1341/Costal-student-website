@@ -11,8 +11,8 @@
 
 ## VS CodeによるサーバーPCへの接続方法
 VS Codeの拡張機能として「Remote-SSH」をインストールする．
-![](figure_howToUseServer/RemoteSSHVScode.png)
-*Remote-SSHの導入*
+![](figure_howToUseServer/RemoteSSHVscode.png)
+*Remote-SSHの導入* \
 リモートエクスプローラーが追加されるので，クリックしカーソル
 をsshに合わせると「新しいリモート」が選択できるのでクリックする．
 
